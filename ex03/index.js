@@ -20,6 +20,7 @@ for (n = 2; primos < 1001; n++) {
     primos++;
   }
 };
+
 window.alert("O 1001º número primo é: " + --n );
 
 
