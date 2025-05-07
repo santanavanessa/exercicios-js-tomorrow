@@ -1,6 +1,3 @@
-//Exemplo
-
-
 let multiplosDeTres = 0;
 let multiplosDeCinco = 0;
 
